@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Muaz Ashraf
-### Frontend Developer | React Developer
+### Frontend Engineer | React Developer
 
 <!--
 **Muaz-Ashraf/Muaz-Ashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
